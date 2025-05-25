@@ -1,4 +1,4 @@
-# Warehouse Optimization & Item Flow Analysis (Hamat Project) 📦
+# Warehouse Optimization & Item Flow Analysis (For Hamat group Ltd. that manufactures bathroom, sanitary, and kitchen products) 📦
 
 A data-driven Python application for analyzing item storage patterns and optimizing warehouse layout strategies based on order history.
 
